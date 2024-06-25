@@ -111,3 +111,88 @@
 ---
 
 ---
+
+<h3 align="center">BRANCH 1</h3>
+
+<h4 align="center">VERSION 1.0</h4>
+
+-   Initialized branch (1) (REF: 1 || FIRST)
+-   Continued Video Tutorial 00:04:40 @ 20240625 13:30;
+-   Completed Video Tutorial>Part1 00:24:15/02:20:10 @ 20240625 15:02;
+-   Pushed FIRST to ORIGIN
+
+---
+
+<h5 align="center"><strong><em><u>ADDED</u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>components\</td>
+        <td>|N/A|</td>
+        <td>=[app\components\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>HeroSection.jsx</td>
+        <td>|1|</td>
+        <td>=[app\components\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>NextJS Application</td>
+        <td>|N/A|</td>
+        <td>=[MAINDIR\]</td>
+        <td>- npm[install react-type-animation]</td>
+    </tr>
+</table>
+
+<h5 align="center"><strong><em><u>UPDATED</u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>HeroSection.jsx</td>
+        <td>|1|=>|1.0|</td>
+        <td>=[app\components\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>page.js</td>
+        <td>|0.0|=>|1.0|</td>
+        <td>=[src\app\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>README.md</td>
+        <td>|0.0|=>|1.0|</td>
+        <td>=[MAINDIR\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>|1|=>|1.0|</td>
+        <td>=[N/A]</td>
+        <td>- Branch (REF: 1 || OPERATIONS)</td>
+    </tr>
+    <tr>
+        <td>ORIGIN</td>
+        <td>|N/A|=>|1.0|</td>
+        <td>=[N/A]</td>
+        <td>- Remote (REF: ORIGIN)<br>- @[https://github.com/FunKodeT/M4PNJSPortfolio]</td>
+    </tr>
+</table>
+
+---
+
+---
