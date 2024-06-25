@@ -196,3 +196,90 @@
 ---
 
 ---
+
+<h3 align="center">BRANCH 2</h3>
+
+<h4 align="center">VERSION 2.0</h4>
+
+-   Initialized branch (2) (REF: 2 || SECOND)
+-   Started Video Tutorial>Part2 00:24:15/02:20:10 @ 20240625 15:05;
+-   Paused Video Tutorial>Part2 00:39:29 @ 20240625 16:51;
+-   Pushed SECOND to ORIGIN
+
+---
+
+<h5 align="center"><strong><em><u> ADDED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>Navbar.jsx</td>
+        <td>|2|</td>
+        <td>=[app\components\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>NextJS Application</td>
+        <td>|N/A|</td>
+        <td>=[MAINDIR\]</td>
+        <td>- npm[install @heroicons/react]</td>
+    </tr>
+</table>
+
+---
+
+<h5 align="center"><strong><em><u> UPDATED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>page.js</td>
+        <td>|1.0|=>|2.0|</td>
+        <td>=[src\app\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>HeroSection.jsx</td>
+        <td>|1.0|=>|2.0|</td>
+        <td>=[app\components\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Navbar.jsx</td>
+        <td>|2|=>|2.0|</td>
+        <td>=[app\components\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>README.md</td>
+        <td>|1.0|=>|2.0|</td>
+        <td>=[MAINDIR\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>|2|=>|2.0|</td>
+        <td>=[N/A]</td>
+        <td>- Branch (REF: 1 || OPERATIONS)</td>
+    </tr>
+    <tr>
+        <td>ORIGIN</td>
+        <td>|N/A|=>|2.0|</td>
+        <td>=[N/A]</td>
+        <td>- Remote (REF: ORIGIN)<br>- @[https://github.com/FunKodeT/M4PNJSPortfolio]</td>
+    </tr>
+</table>
+
+---
+
+---
