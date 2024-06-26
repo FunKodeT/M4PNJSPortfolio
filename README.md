@@ -359,3 +359,102 @@
 ---
 
 ---
+
+<h3 align="center">BRANCH 3</h3>
+
+<h4 align="center">VERSION 3.0</h4>
+
+-   Initialized branch (3) (REF: 3 || THIRD)
+-   Started Video Tutorial>Part3 00:42:48/02:20:10 @ 20240626 13:09;
+-   Completed Video Tutorial>Part3 00:58:17 @ 20240626 14:51;
+-   Pushed THIRD to ORIGIN
+
+---
+
+<h5 align="center"><strong><em><u> ADDED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>|3|</td>
+        <td>=[N/A]</td>
+        <td>- Branch (REF: 3 || THIRD)</td>
+    </tr>
+    <tr>
+        <td>computer.png</td>
+        <td>|N/A|</td>
+        <td>=[public\images\]</td>
+        <td>- MC: businessman-1280x.png was included in a previous versioni</td>
+    </tr>
+    <tr>
+        <td>AboutSection.jsx</td>
+        <td>|3|</td>
+        <td>=[app\components\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>TabButton.jsx</td>
+        <td>|3|</td>
+        <td>=[app\components\]</td>
+        <td></td>
+    </tr>
+</table>
+
+---
+
+<h5 align="center"><strong><em><u> UPDATED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>AboutSection.jsx</td>
+        <td>|3|=>|3.0|</td>
+        <td>=[app\components\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>TabButton.jsx</td>
+        <td>|3|=>|3.0|</td>
+        <td>=[app\components]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>page.js</td>
+        <td>|2.1|=>|3.0|</td>
+        <td>=[src\app\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>README.md</td>
+        <td>|2.1|=>|3.0|</td>
+        <td>=[MAINDIR\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>|3|=>|3.0|</td>
+        <td>=[N/A]</td>
+        <td>- Branch (REF: 3 || THIRD)</td>
+    </tr>
+    <tr>
+        <td>ORIGIN</td>
+        <td>|N/A|=>|3.0|</td>
+        <td>=[N/A]</td>
+        <td>- Remote (REF: ORIGIN)<br>- @[https://github.com/FunKodeT/M4PNJSPortfolio]</td>
+    </tr>
+</table>
+
+---
+
+---
