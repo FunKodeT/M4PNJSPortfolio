@@ -611,3 +611,125 @@
 ---
 
 ---
+
+<h3 align="center">BRANCH 5</h3>
+
+<h4 align="center">VERSION 5.0</h4>
+
+-   Started Video Tutorial>Part4 01:20:04/02:20:10 @ 20240626 17:16;
+-   Commited TTech EOD Progress: Video Tutorial>Part4 01:30:01 @ 20240626 17:49;
+-   Pushed FIFTH to ORIGIN
+
+---
+
+<h5 align="center"><strong><em><u> ADDED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>|5|</td>
+        <td>=[N/A]</td>
+        <td>- Branch (REF: 5 || FIFTH)</td>
+    </tr>
+    <tr>
+        <td>NextJS Application</td>
+        <td>|N/A|</td>
+        <td>=[MAINDIR\]</td>
+        <td>- npm[install resend]</td>
+    </tr>
+    <tr>
+        <td>github-icon.svg</td>
+        <td>|N/A|</td>
+        <td>=[MAINDIR\public\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>linkedin-icon.svg</td>
+        <td>|N/A|</td>
+        <td>=[MAINDIR\public\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>api\</td>
+        <td>|N/A|</td>
+        <td>=[src\app\api\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>send\</td>
+        <td>|N/A|</td>
+        <td>=[app\api\send\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>route.js</td>
+        <td>|5|</td>
+        <td>=[api\send\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>EmailSection.jsx</td>
+        <td>|5|</td>
+        <td>=[app\components\]</td>
+        <td></td>
+    </tr>
+</table>
+
+---
+
+<h5 align="center"><strong><em><u> UPDATED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>route.js</td>
+        <td>|5|=>|5.0|</td>
+        <td>=[api\send\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>EmailSection.jsx</td>
+        <td>|5|=>|5.0|</td>
+        <td>=[app\components\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>page.js</td>
+        <td>|4.0|=>|5.0|</td>
+        <td>=[src\app\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>README.md</td>
+        <td>|4.0|=>|5.0|</td>
+        <td>=[MAINDIR\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>|5|=>|5.0|</td>
+        <td>=[N/A]</td>
+        <td>- Branch (REF: 5 || FIFTH)</td>
+    </tr>
+    <tr>
+        <td>ORIGIN</td>
+        <td>|N/A|=>|5.0|</td>
+        <td>=[N/A]</td>
+        <td>- Remote (REF: ORIGIN)<br>- @[https://github.com/FunKodeT/M4PNJSPortfolio]</td>
+    </tr>
+</table>
+
+---
+
+---
