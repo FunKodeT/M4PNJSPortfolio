@@ -458,3 +458,156 @@
 ---
 
 ---
+
+<h3 align="center">BRANCH 4</h3>
+
+<h4 align="center">VERSION 4.0</h4>
+
+-   Initialized branch (4) (REF: 4 || FOURTH)
+-   Started Video Tutorial>Part3 00:58:17/02:20:10 @ 20240626 14:54;
+-   Completed Video Tutorial>Part3 01:20:04 @ 20240626 17:07;
+-   Pushed FOURTH to ORIGIN
+
+---
+
+<h5 align="center"><strong><em><u> ADDED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>projects\</td>
+        <td>|N/A|</td>
+        <td>=[public\images\projects\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>expenseAppReactProject.png</td>
+        <td>|N/A|</td>
+        <td>=[images\projects\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>final1700Project.png</td>
+        <td>|N/A|</td>
+        <td>=[images\projects\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>fntEndReactProject.png</td>
+        <td>|N/A|</td>
+        <td>=[images\projects\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>introReactProject.png</td>
+        <td>|N/A|</td>
+        <td>=[images\projects\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>portalProject.png</td>
+        <td>|N/A|</td>
+        <td>=[images\projects\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>recipeReactProject.png</td>
+        <td>|N/A|</td>
+        <td>=[images\projects\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>stretch1700Project.png</td>
+        <td>|N/A|</td>
+        <td>=[images\projects\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>studentsAPIProject.png</td>
+        <td>|N/A|</td>
+        <td>=[images\projects\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>ProjectCard.jsx</td>
+        <td>|4|</td>
+        <td>=[app\components\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>ProjectsSection.jsx</td>
+        <td>|4|</td>
+        <td>=[app\components\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>ProjectTag.jsx</td>
+        <td>|4|</td>
+        <td>=[app\components\]</td>
+        <td></td>
+    </tr>
+</table>
+
+---
+
+<h5 align="center"><strong><em><u> UPDATED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>ProjectCard.jsx</td>
+        <td>|4|=>|4.0|</td>
+        <td>=[app\components\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>ProjectsSection.jsx</td>
+        <td>|4|=>|4.0|</td>
+        <td>=[app\components\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>ProjectTag.jsx</td>
+        <td>|4|=>|4.0|</td>
+        <td>=[app\components\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>page.js</td>
+        <td>|3.0|=>|4.0|</td>
+        <td>=[app\components\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>README.md</td>
+        <td>|3.0|=>|4.0|</td>
+        <td>=[MAINDIR\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>|4|=>|4.0|</td>
+        <td>=[N/A]</td>
+        <td>- Branch (REF: 4 || FOURTH)</td>
+    </tr>
+    <tr>
+        <td>ORIGIN</td>
+        <td>|N/A|=>|4.0|</td>
+        <td>=[N/A]</td>
+        <td>- Remote (REF: ORIGIN)<br>- @[https://github.com/FunKodeT/M4PNJSPortfolio]</td>
+    </tr>
+</table>
+
+---
+
+---
