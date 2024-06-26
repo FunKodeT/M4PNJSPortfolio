@@ -183,7 +183,7 @@
         <td>1</td>
         <td>|1|=>|1.0|</td>
         <td>=[N/A]</td>
-        <td>- Branch (REF: 1 || OPERATIONS)</td>
+        <td>- Branch (REF: 1 || FIRST)</td>
     </tr>
     <tr>
         <td>ORIGIN</td>
@@ -270,11 +270,87 @@
         <td>2</td>
         <td>|2|=>|2.0|</td>
         <td>=[N/A]</td>
-        <td>- Branch (REF: 1 || OPERATIONS)</td>
+        <td>- Branch (REF: 2 || SECOND)</td>
     </tr>
     <tr>
         <td>ORIGIN</td>
         <td>|N/A|=>|2.0|</td>
+        <td>=[N/A]</td>
+        <td>- Remote (REF: ORIGIN)<br>- @[https://github.com/FunKodeT/M4PNJSPortfolio]</td>
+    </tr>
+</table>
+
+---
+
+<h4 align="center">VERSION 2.1</h4>
+
+-   Continued Video Tutorial>Part2 00:39:29/02:20:10 @ 20240626 12:32;
+-   Completed Video Tutorial>Part2 00:42:48 @ 20240626 13:07;
+-   Pushed SECOND to ORIGIN
+
+---
+
+<h5 align="center"><strong><em><u> ADDED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>MenuOverlay.jsx</td>
+        <td>|2|</td>
+        <td>=[app\components\]</td>
+        <td></td>
+    </tr>
+</table>
+
+---
+
+<h5 align="center"><strong><em><u> UPDATED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>MenuOverlay</td>
+        <td>|2|=>|2.1|</td>
+        <td>=[app\components\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Navbar.jsx</td>
+        <td>|2.0|=>|2.1|</td>
+        <td>=[app\components\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>page.js</td>
+        <td>|2.0|=>|2.1|</td>
+        <td>=[src\app\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>README.md</td>
+        <td>|2.0|=>|2.1|</td>
+        <td>=[MAINDIR\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>|2.0|=>|2.1|</td>
+        <td>=[N/A]</td>
+        <td>- Branch (REF: 2 || SECOND)</td>
+    </tr>
+    <tr>
+        <td>ORIGIN</td>
+        <td>|2.0|=>|2.1|</td>
         <td>=[N/A]</td>
         <td>- Remote (REF: ORIGIN)<br>- @[https://github.com/FunKodeT/M4PNJSPortfolio]</td>
     </tr>
