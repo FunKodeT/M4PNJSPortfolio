@@ -746,8 +746,8 @@
 
 <h4 align="center">VERSION 5.1</h4>
 
--   Started Video Tutorial>Part4 01:30:01/02:20:10 @ 20240626 12:16;
--   Completed Video Tutorial>Part4 01:58:48/02:20:10 @ 20240626 16:15;
+-   Started Video Tutorial>Part4 01:30:01/02:20:10 @ 20240627 12:16;
+-   Completed Video Tutorial>Part4 01:58:48/02:20:10 @ 20240627 16:15;
 -   Pushed FIFTH to ORIGIN
 
 ---
@@ -873,6 +873,99 @@
     <tr>
         <td>ORIGIN</td>
         <td>|5.0|=>|5.1|</td>
+        <td>=[N/A]</td>
+        <td>- Remote (REF: ORIGIN)<br>- @[https://github.com/FunKodeT/M4PNJSPortfolio]</td>
+    </tr>
+</table>
+
+---
+
+---
+
+<h3 align="center">BRANCH 6</h3>
+
+<h4 align="center">VERSION 6.0</h4>
+
+-   Initialized branch (6) (REF: 6 || SIXTH)
+-   Started Video Tutorial>Part5 01:58:48/02:20:10 @ 20240627 16:23;
+-   Completed Video Tutorial>Part5 02:18:19/02:20:10 @ 20240627 16:52;
+-   Pushed SIXTH to ORIGIN
+
+---
+
+<h5 align="center"><strong><em><u> ADDED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>|6|</td>
+        <td>=[N/A]</td>
+        <td>- Branch (REF: 6 || SIXTH)</td>
+    </tr>
+    <tr>
+        <td>NextJS Application</td>
+        <td>|N/A|</td>
+        <td>=[MAINDIR\]</td>
+        <td>- npm[install framer-motion react-animated-numbers]</td>
+    </tr>
+</table>
+
+---
+
+<h5 align="center"><strong><em><u> UPDATED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>AchievementsSection.jsx</td>
+        <td>|5.1|=>|6.0|</td>
+        <td>=[app\components\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>HeroSection.jsx</td>
+        <td>|2.0|=>|6.0|</td>
+        <td>=[app\components\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>ProjectsSection.jsx</td>
+        <td>|5.1|=>|6.0|</td>
+        <td>=[app\components\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>TabButton.jsx</td>
+        <td>|5.1|=>|6.0|</td>
+        <td>=[app\components\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>README.md</td>
+        <td>|5.1|=>|6.0|</td>
+        <td>=[MAINDIR\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>|6|=>|6.0|</td>
+        <td>=[N/A]</td>
+        <td>- Branch (REF: 6 || SIXTH)</td>
+    </tr>
+    <tr>
+        <td>ORIGIN</td>
+        <td>|N/A|=>|6.0|</td>
         <td>=[N/A]</td>
         <td>- Remote (REF: ORIGIN)<br>- @[https://github.com/FunKodeT/M4PNJSPortfolio]</td>
     </tr>
