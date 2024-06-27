@@ -679,6 +679,12 @@
         <td>=[app\components\]</td>
         <td></td>
     </tr>
+    <tr>
+        <td>.env.local</td>
+        <td>|5|</td>
+        <td>=[MAINDIR\]</td>
+        <td></td>
+    </tr>
 </table>
 
 ---
@@ -711,6 +717,12 @@
         <td></td>
     </tr>
     <tr>
+        <td>.env.local</td>
+        <td>|5|=>|5.0|</td>
+        <td>=[MAINDIR\]</td>
+        <td></td>
+    </tr>
+    <tr>
         <td>README.md</td>
         <td>|4.0|=>|5.0|</td>
         <td>=[MAINDIR\]</td>
@@ -725,6 +737,142 @@
     <tr>
         <td>ORIGIN</td>
         <td>|N/A|=>|5.0|</td>
+        <td>=[N/A]</td>
+        <td>- Remote (REF: ORIGIN)<br>- @[https://github.com/FunKodeT/M4PNJSPortfolio]</td>
+    </tr>
+</table>
+
+---
+
+<h4 align="center">VERSION 5.1</h4>
+
+-   Started Video Tutorial>Part4 01:30:01/02:20:10 @ 20240626 12:16;
+-   Completed Video Tutorial>Part4 01:58:48/02:20:10 @ 20240626 16:15;
+-   Pushed FIFTH to ORIGIN
+
+---
+
+<h5 align="center"><strong><em><u> ADDED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>AchievementsSection.jsx</td>
+        <td>|5|</td>
+        <td>=[app\components\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Footer.jsx</td>
+        <td>|5|</td>
+        <td>=[app\components\]</td>
+        <td></td>
+    </tr>
+</table>
+
+---
+
+<h5 align="center"><strong><em><u> UPDATED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>route.js</td>
+        <td>|5.0|=>|5.1|</td>
+        <td>=[api\send\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>AboutSection.jsx</td>
+        <td>|3.0|=>|5.1|</td>
+        <td>=[app\components\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>AchievementsSection.jsx</td>
+        <td>|5|=>|5.1|</td>
+        <td>=[app\components\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>EmailSection.jsx</td>
+        <td>|5.0|=>|5.1|</td>
+        <td>=[app\components\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Footer.jsx</td>
+        <td>|5|=>|5.1|</td>
+        <td>=[app\components\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Navbar.jsx</td>
+        <td>|2.1|=>|5.1|</td>
+        <td>=[app\components\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>ProjectsSection.jsx</td>
+        <td>|4.0|=>|5.1|</td>
+        <td>=[app\components\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>ProjectTag.jsx</td>
+        <td>|4.0|=>|5.1|</td>
+        <td>=[app\components\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>TabButton.jsx</td>
+        <td>|3.0|=>|5.1|</td>
+        <td>=[app\components\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>page.js</td>
+        <td>|5.0|=>|5.1|</td>
+        <td>=[src\app\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>.env.local</td>
+        <td>|5.0|=>|5.1|</td>
+        <td>=[MAINDIR\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>tailwind.config.js</td>
+        <td>|2|=>|5.1|</td>
+        <td>=[MAINDIR\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>README.md</td>
+        <td>|5.0|=>|5.1|</td>
+        <td>=[MAINDIR\]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>|5.0|=>|5.1|</td>
+        <td>=[N/A]</td>
+        <td>- Branch (REF: 5 || FIFTH)</td>
+    </tr>
+    <tr>
+        <td>ORIGIN</td>
+        <td>|5.0|=>|5.1|</td>
         <td>=[N/A]</td>
         <td>- Remote (REF: ORIGIN)<br>- @[https://github.com/FunKodeT/M4PNJSPortfolio]</td>
     </tr>

@@ -93,7 +93,7 @@ const AboutSection = () => {
 							{' '}
 							Certifications{' '}
 						</TabButton>
-						{/* <span className="mr-3 font-semibold hover:text-white text-[#adb7be] border-purple-500">
+						{/* <span className="mr-3 font-semibold hover:text-white text-[#adb7be] border-primary-500">
 							Skills
 						</span>
 						<span>Education</span>

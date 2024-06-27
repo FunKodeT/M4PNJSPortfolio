@@ -108,7 +108,7 @@ const ProjectsSection = () => {
 					name="Mobile"
 					isSelected={tag === 'Mobile'}
 				/>
-				{/* <button className="rounded-full border-2 border-purple-500 px-6 py-3 text-xl cursor-pointer">
+				{/* <button className="rounded-full border-2 border-primary-500 px-6 py-3 text-xl cursor-pointer">
 					All
 				</button>
 				<button className="rounded-full border-2 border-slate-600 hover:border-white px-6 py-3 text-xl cursor-pointer">
